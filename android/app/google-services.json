@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "854862782149",
+    "firebase_url": "https://studied-alloy-218011.firebaseio.com",
+    "project_id": "studied-alloy-218011",
+    "storage_bucket": "studied-alloy-218011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854862782149:android:40cf10f62513f398",
+        "android_client_info": {
+          "package_name": "com.photory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854862782149-5rqpagoulhd3cef5129loruo2e0o59u6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.photory",
+            "certificate_hash": "ebd6fb5a3ae9b0a633c310e3118983ec842926af"
+          }
+        },
+        {
+          "client_id": "854862782149-913tcg18upirr09h8ase6gheqkroo06v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJB2-zTS3LE8KkZwS8xir-D4c5Jcljp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854862782149-913tcg18upirr09h8ase6gheqkroo06v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "854862782149-a9j44ngilt4jskfcr4mviknglq9fivfs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.photory.photoryapp",
+                "app_store_id": "1462519742"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854862782149:android:e7084fa9d8a04759a75aac",
+        "android_client_info": {
+          "package_name": "com.photory2025"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854862782149-913tcg18upirr09h8ase6gheqkroo06v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJB2-zTS3LE8KkZwS8xir-D4c5Jcljp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854862782149-913tcg18upirr09h8ase6gheqkroo06v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "854862782149-a9j44ngilt4jskfcr4mviknglq9fivfs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.photory.photoryapp",
+                "app_store_id": "1462519742"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
