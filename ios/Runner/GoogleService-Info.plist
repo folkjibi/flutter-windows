@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>854862782149-5rqpagoulhd3cef5129loruo2e0o59u6.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD-uWeeYcfRYq7387-n1tcFGb74tulufDY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>854862782149</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.photory.photoryapp.2024</string>
+	<key>PROJECT_ID</key>
+	<string>studied-alloy-218011</string>
+	<key>STORAGE_BUCKET</key>
+	<string>studied-alloy-218011.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:854862782149:ios:0f65e2fc7d6dcc3ba75aac</string>
+	<key>DATABASE_URL</key>
+	<string>https://studied-alloy-218011.firebaseio.com</string>
+</dict>
+</plist>
