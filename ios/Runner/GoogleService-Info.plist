@@ -27,7 +27,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:854862782149:ios:0f65e2fc7d6dcc3ba75aac</string>
+	<string>1:854862782149:ios:dd025bea5f6cf87fa75aac</string>
 	<key>DATABASE_URL</key>
 	<string>https://studied-alloy-218011.firebaseio.com</string>
 </dict>
